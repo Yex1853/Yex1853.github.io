@@ -1,1 +1,12 @@
+body {
+   color: purple;
+   max-width: 600px;
+   margin: auto;
+}
+
+
+h1, h2, h3 {
+   color: white;
+   background-color: purple;
+}
 
